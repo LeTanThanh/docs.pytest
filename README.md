@@ -10,7 +10,7 @@ A. [Start here](https://docs.pytest.org/en/8.2.x/contents.html#start-here)
     * [Create your first test](https://github.com/LeTanThanh/pytest-create-your-first-test)
     * [Run multiple tests](https://github.com/LeTanThanh/pytest-run-multiple-tests)
     * Assert that a certain exception is raised
-    * Group multiple tests in a class
+    * [Group multiple tests in a class](https://github.com/LeTanThanh/pytest-group-multiple-tests-in-a-class)
     * Request a unique temporary directory for functional tests
 
 B. How-to guides
