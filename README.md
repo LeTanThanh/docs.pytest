@@ -7,7 +7,7 @@
 A. [Start here](https://docs.pytest.org/en/8.2.x/contents.html#start-here)
   * Get Started
     * Install pytest 
-    * Create your first test
+    * [Create your first test](https://github.com/LeTanThanh/pytest-create-your-first-test)
     * Run multiple tests
     * Assert that a certain exception is raised
     * Group multiple tests in a class
