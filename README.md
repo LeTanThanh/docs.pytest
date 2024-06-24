@@ -29,6 +29,24 @@ B. How-to guides
     * Defining your own explanation for failed assertions
     * Assertion introspection details
 
+  * How to use fixtures
+    * [“Requesting” fixtures](https://github.com/LeTanThanh/pytest-how-to-requesting-fixtures)
+    * Autouse fixtures (fixtures you don’t have to request)
+    * Scope: sharing fixtures across classes, modules, packages or session
+    * Teardown/Cleanup (AKA Fixture finalization)
+    * Safe teardowns
+    * Running multiple assert statements safely
+    * Fixtures can introspect the requesting test context
+    * Using markers to pass data to fixtures
+    * Factories as fixtures
+    * Parametrizing fixtures
+    * Using marks with parametrized fixtures
+    * Modularity: using fixtures from a fixture function
+    * Automatic grouping of tests by fixture instances
+    * Use fixtures in classes and modules with usefixtures
+    * Overriding fixtures on various levels
+    * Using fixtures from other projects
+
 C. Reference guides
 
 D. Explanation
