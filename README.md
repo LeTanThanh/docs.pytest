@@ -23,7 +23,7 @@ B. How-to guides
 
   * How to write and report assertions in tests
     * [Asserting with the assert statement](https://github.com/LeTanThanh/pytest-how-to-asserting-with-the-assert-statement)
-    * Assertions about expected exceptions
+    * [Assertions about expected exceptions](https://github.com/LeTanThanh/pytest-how-to-assertions-about-expected-exceptions)
     * Assertions about expected warnings
     * Making use of context-sensitive comparisons
     * Defining your own explanation for failed assertions
