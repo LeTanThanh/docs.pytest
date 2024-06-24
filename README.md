@@ -21,6 +21,14 @@ B. How-to guides
     * Managing loading of plugins
     * Other ways of calling pytest
 
+  * How to write and report assertions in tests
+    * [Asserting with the assert statement](https://github.com/LeTanThanh/pytest-how-to-asserting-with-the-assert-statement)
+    * Assertions about expected exceptions
+    * Assertions about expected warnings
+    * Making use of context-sensitive comparisons
+    * Defining your own explanation for failed assertions
+    * Assertion introspection details
+
 C. Reference guides
 
 D. Explanation
