@@ -32,7 +32,7 @@ B. How-to guides
   * How to use fixtures
     * [“Requesting” fixtures](https://github.com/LeTanThanh/pytest-how-to-requesting-fixtures)
     * [Autouse fixtures (fixtures you don’t have to request)](https://github.com/LeTanThanh/pytest-how-to-autouse-fixtures-fixtures-you-don-t-have-to-request)
-    * Scope: sharing fixtures across classes, modules, packages or session
+    * [Scope: sharing fixtures across classes, modules, packages or session](https://github.com/LeTanThanh/pytest-how-to-scope-sharing-fixtures-across-classes-modules-packages-or-session)
     * Teardown/Cleanup (AKA Fixture finalization)
     * Safe teardowns
     * Running multiple assert statements safely
