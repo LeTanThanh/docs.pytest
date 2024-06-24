@@ -14,6 +14,12 @@ A. [Start here](https://docs.pytest.org/en/8.2.x/contents.html#start-here)
     * Request a unique temporary directory for functional tests
 
 B. How-to guides
+  * How to invoke pytest
+    * Specifying which tests to run
+    * Getting help on version, option names, environment variables
+    * Profiling test execution duration
+    * Managing loading of plugins
+    * Other ways of calling pytest
 
 C. Reference guides
 
