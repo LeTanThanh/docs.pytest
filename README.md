@@ -25,7 +25,7 @@ B. How-to guides
     * [Asserting with the assert statement](https://github.com/LeTanThanh/pytest-how-to-asserting-with-the-assert-statement)
     * [Assertions about expected exceptions](https://github.com/LeTanThanh/pytest-how-to-assertions-about-expected-exceptions)
     * Assertions about expected warnings
-    * Making use of context-sensitive comparisons
+    * [Making use of context-sensitive comparisons](https://github.com/LeTanThanh/pytest-how-to-making-use-of-context-sensitive-comparisons)
     * Defining your own explanation for failed assertions
     * Assertion introspection details
 
