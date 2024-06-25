@@ -33,7 +33,7 @@ B. How-to guides
     * [“Requesting” fixtures](https://github.com/LeTanThanh/pytest-how-to-requesting-fixtures)
     * [Autouse fixtures (fixtures you don’t have to request)](https://github.com/LeTanThanh/pytest-how-to-autouse-fixtures-fixtures-you-don-t-have-to-request)
     * [Scope: sharing fixtures across classes, modules, packages or session](https://github.com/LeTanThanh/pytest-how-to-scope-sharing-fixtures-across-classes-modules-packages-or-session)
-    * Teardown/Cleanup (AKA Fixture finalization)
+    * [Teardown/Cleanup (AKA Fixture finalization)](https://github.com/LeTanThanh/pytest-how-to-teardown-cleanup-aka-fixture-finalization)
     * Safe teardowns
     * Running multiple assert statements safely
     * Fixtures can introspect the requesting test context
